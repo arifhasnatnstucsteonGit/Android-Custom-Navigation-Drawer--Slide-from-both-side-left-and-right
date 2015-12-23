@@ -1,0 +1,5 @@
+/media/arifhasnat/1ED0E5663F78E3C1/AjkerDeal/NavigationDrawer/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/example/android/navigationdrawerexample/MainActivity$override.class
+/media/arifhasnat/1ED0E5663F78E3C1/AjkerDeal/NavigationDrawer/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener$override.class
+/media/arifhasnat/1ED0E5663F78E3C1/AjkerDeal/NavigationDrawer/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/example/android/navigationdrawerexample/MainActivity$1$override.class
+/media/arifhasnat/1ED0E5663F78E3C1/AjkerDeal/NavigationDrawer/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/example/android/navigationdrawerexample/MainActivity$PlanetFragment$override.class
+/media/arifhasnat/1ED0E5663F78E3C1/AjkerDeal/NavigationDrawer/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/build/gradle/internal/incremental/AppPatchesLoaderImpl.class
